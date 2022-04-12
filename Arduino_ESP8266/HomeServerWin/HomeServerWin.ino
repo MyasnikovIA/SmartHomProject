@@ -37,8 +37,8 @@ DynamicJsonDocument jsoonObj(2048);
 DynamicJsonDocument clientPass(2048);
 
 String DEVICE_NAME = "HomeServerWin"; // имя устройства
-String SSIDName = "ELTEX-87A2";     // имя точки доступа
-char* SSIDPass = "GP08004568";      // пароль точки доступа
+String SSIDName = "*******";     // имя точки доступа
+char* SSIDPass = "*******";      // пароль точки доступа
 String IP_SIGNAL_SERVER = "128.0.24.172";  // http://128.0.24.172:8200/signalchange.ru
 int PORT_SIGNAL_SERVER = 8200;
 String PassDevice = "********";      // пароль устройства
